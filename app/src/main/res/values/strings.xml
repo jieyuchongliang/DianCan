@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DianCan</string>
+    <string-array name="notice">
+        <item>王涛sb</item>
+        <item>王涛，你在干什么</item>
+        <item>王涛在吃屎</item>
+        <item>王涛，你裤子掉了</item>
+        <item>王涛今天又没有洗脸</item>
+    </string-array>
+</resources>
